@@ -32,7 +32,7 @@ BSCS student | Machine Learning &amp; GenAI enthusiast | Exploring LLMs, NLP, RA
 
 ## 📫 Let's Connect
 📩 **Email**: dawanishivani4@gmail.com  
-🔗 **LinkedIn**: *[Your LinkedIn Profile URL]*  
+🔗 **LinkedIn**: *[https://www.linkedin.com/in/shivani-dawani-6180b2303]*  
 🗂️ **Portfolio (Coming Soon!)**
 
 ---
