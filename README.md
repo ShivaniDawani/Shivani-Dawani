@@ -15,7 +15,8 @@ BSCS student | Machine Learning &amp; GenAI enthusiast | Exploring LLMs, NLP, RA
 
 - 🤖 **Crime Reporting AI Chatbot** — NLP-based conversational interface for reporting incidents  
 - 🧠 **Personality Test Web App** — Predicts personality traits using custom-trained ML model  
-- 📚 **PDF Insight AI** *(ChatPDF Clone)* — Upload any PDF and ask questions, answers generated using LLMs  
+- 📚 **PDF Insight AI** *(ChatPDF Clone)* — Upload any PDF and ask questions, answers generated using LLMs
+- 🤖 **Visionary.ai** *(Object Detection system)* -Upload any image, it Detects Objects and label them
 
 
 ---
