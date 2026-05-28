@@ -1,11 +1,11 @@
 # Shivani-Dawani
-BSCS student | Machine Learning &amp; GenAI enthusiast | Exploring LLMs, NLP, RAG systems, and AI-powered solutions | Python &amp; TensorFlow lover 🧠🚀
+BSCS student | Artificial intelligence | Machine Learning &amp; Agentic AI enthusiast | Exploring LLMs, NLP, RAG systems, and AI-powered solutions | Python &amp; TensorFlow lover 🧠🚀
 
 
 # 👋 Hi, I'm Shivani Dawani
 
 🎓 BSCS Student at Sukkur IBA University  
-🤖 Machine Learning & GenAI Enthusiast  
+🤖 Machine Learning & Agentic AI Enthusiast  
 🧠 Exploring LLMs, NLP, RAG systems, and AI-powered solutions  
 💻 Currently learning: PyTorch, TensorFlow, Scikit-learn, and Deep Learning pipelines
 
